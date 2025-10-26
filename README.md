@@ -1,2 +1,2 @@
 # ml_video_analysis
-Real-time football analytics using YOLOv8 and KMeans clustering for player, ball, and referee detection and team classification.
+An intelligent football analytics system leveraging YOLOv8 for real-time object detection of players, referees, and the ball. The project includes custom model fine-tuning on a football dataset for improved accuracy and KMeans-based color segmentation for team classification and tactical analysis.
